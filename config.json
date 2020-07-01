@@ -1,0 +1,18 @@
+[
+ {
+  "username": "DevcodeOfficial",
+  "name": "Devcode",
+  "userimg": "https://avatars2.githubusercontent.com/u/66054636?v=4",
+  "sort": "updated",
+  "order": "asc",
+  "includeFork": true,
+  "theme": "light.css",
+  "types": [
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
+ }
+]
